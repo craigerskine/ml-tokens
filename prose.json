@@ -1,6 +1,14 @@
 {
   "prose v1.5": {
     "color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
       "primary": {
         "50": {
           "value": "#f9f9fc",
